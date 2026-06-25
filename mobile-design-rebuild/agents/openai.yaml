@@ -1,0 +1,4 @@
+interface:
+  display_name: "移动端设计还原"
+  short_description: "iOS/Android/H5 移动端规格先行设计还原"
+  default_prompt: "Use $mobile-design-rebuild 处理这些移动端设计图和目标页面：先判断目标端并创建 HTML/JSON/MD 规格包给我确认；确认前不要生图或改代码。"
